@@ -1,4 +1,6 @@
 # S.P.I.D.E.Y.
+
+# IMPORTANT UPDATE < SPIDEY is currently not working due to HTML changes on dependencies
 An advanced AI desktop assistant.
 
 *Installing Required Packages*
